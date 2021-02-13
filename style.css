@@ -160,3 +160,13 @@ footer li, footer p{
 ul.links i {
   font-size: 25px;
 }
+.display-2{
+    font-size:50px;
+    color: #fff;
+}
+
+.display-3{
+    font-size:20px;
+    color: #fff;
+    padding: 0 0 20px 0;
+}
